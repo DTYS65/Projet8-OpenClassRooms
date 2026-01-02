@@ -5,7 +5,6 @@ from fastapi import FastAPI
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import NearestNeighbors
-import uvicorn
 import shap
 import joblib
 
